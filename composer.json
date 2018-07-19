@@ -1,0 +1,13 @@
+{
+  "name": "test/ddd",
+  "minimum-stability": "dev",
+  "require": {
+    "jocelyn1/testcomposer": "dev-master"
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/jocelyn1/testcomposer"
+    }
+  ]
+}
